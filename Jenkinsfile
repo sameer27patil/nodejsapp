@@ -1,4 +1,4 @@
 @Library("jmsdevops@main") _ 
-pushMavenEcrRepo( 
+pushEcrRepo( 
 ecrRepoName: 'nodejsapp'
 ) 
